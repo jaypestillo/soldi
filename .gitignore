@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# SQLite database file
+*.db
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Operating system files
+.DS_Store
+
+# IDE configuration files
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment variables
+.env
